@@ -1,0 +1,79 @@
+25-01-21 10:05:10.973 [http-nio-8080-exec-8] INFO  c.a.e.e.controller.ELKController - Inside Food Detail Function 
+25-01-21 10:05:10.977 [http-nio-8080-exec-8] INFO  c.a.e.elkdemo.service.ELKService - Fetching ALL food details... 
+25-01-21 10:11:57.616 [restartedMain] INFO  c.a.e.elkdemo.ElkDemoApplication - Starting ElkDemoApplication using Java 22.0.2 with PID 5292 (D:\Current_Downloads_Folder\elkdemo\target\classes started by Amit Kumar in D:\Current_Downloads_Folder\elkdemo) 
+25-01-21 10:11:57.618 [restartedMain] INFO  c.a.e.elkdemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default" 
+25-01-21 10:11:57.671 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+25-01-21 10:11:57.671 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+25-01-21 10:11:58.367 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http) 
+25-01-21 10:11:58.378 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+25-01-21 10:11:58.380 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat] 
+25-01-21 10:11:58.380 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34] 
+25-01-21 10:11:58.420 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+25-01-21 10:11:58.420 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 748 ms 
+25-01-21 10:11:58.682 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+25-01-21 10:11:58.692 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+25-01-21 10:11:58.714 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/' 
+25-01-21 10:11:58.720 [restartedMain] INFO  c.a.e.elkdemo.ElkDemoApplication - Started ElkDemoApplication in 1.436 seconds (process running for 2.296) 
+25-01-21 10:12:11.836 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+25-01-21 10:12:11.836 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+25-01-21 10:12:11.837 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms 
+25-01-21 10:12:11.859 [http-nio-8080-exec-1] INFO  c.a.e.e.controller.ELKController - Inside Food Detail Function 
+25-01-21 10:12:11.860 [http-nio-8080-exec-1] INFO  c.a.e.elkdemo.service.ELKService - Fetching ALL food details... 
+25-01-21 10:12:59.110 [restartedMain] INFO  c.a.e.elkdemo.ElkDemoApplication - Starting ElkDemoApplication using Java 22.0.2 with PID 6840 (D:\Current_Downloads_Folder\elkdemo\target\classes started by Amit Kumar in D:\Current_Downloads_Folder\elkdemo) 
+25-01-21 10:12:59.112 [restartedMain] INFO  c.a.e.elkdemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default" 
+25-01-21 10:12:59.169 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+25-01-21 10:12:59.169 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+25-01-21 10:12:59.862 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http) 
+25-01-21 10:12:59.873 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+25-01-21 10:12:59.875 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat] 
+25-01-21 10:12:59.875 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34] 
+25-01-21 10:12:59.911 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+25-01-21 10:12:59.911 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 741 ms 
+25-01-21 10:13:00.184 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+25-01-21 10:13:00.198 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+25-01-21 10:13:00.224 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/' 
+25-01-21 10:13:00.230 [restartedMain] INFO  c.a.e.elkdemo.ElkDemoApplication - Started ElkDemoApplication in 1.392 seconds (process running for 2.128) 
+25-01-21 10:13:18.453 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+25-01-21 10:13:18.453 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+25-01-21 10:13:18.454 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms 
+25-01-21 10:13:18.474 [http-nio-8080-exec-1] INFO  c.a.e.e.controller.ELKController - Inside Food Detail Function 
+25-01-21 10:13:18.474 [http-nio-8080-exec-1] INFO  c.a.e.elkdemo.service.ELKService - Fetching ALL food details... 
+25-01-21 10:13:18.623 [http-nio-8080-exec-2] INFO  c.a.e.e.controller.ELKController - Inside Food Detail Function 
+25-01-21 10:13:18.624 [http-nio-8080-exec-2] INFO  c.a.e.elkdemo.service.ELKService - Fetching ALL food details... 
+25-01-21 10:13:18.833 [http-nio-8080-exec-3] INFO  c.a.e.e.controller.ELKController - Inside Food Detail Function 
+25-01-21 10:13:18.833 [http-nio-8080-exec-3] INFO  c.a.e.elkdemo.service.ELKService - Fetching ALL food details... 
+25-01-21 10:13:19.016 [http-nio-8080-exec-4] INFO  c.a.e.e.controller.ELKController - Inside Food Detail Function 
+25-01-21 10:13:19.016 [http-nio-8080-exec-4] INFO  c.a.e.elkdemo.service.ELKService - Fetching ALL food details... 
+25-01-21 10:13:19.202 [http-nio-8080-exec-5] INFO  c.a.e.e.controller.ELKController - Inside Food Detail Function 
+25-01-21 10:13:19.202 [http-nio-8080-exec-5] INFO  c.a.e.elkdemo.service.ELKService - Fetching ALL food details... 
+25-01-21 10:13:19.374 [http-nio-8080-exec-6] INFO  c.a.e.e.controller.ELKController - Inside Food Detail Function 
+25-01-21 10:13:19.374 [http-nio-8080-exec-6] INFO  c.a.e.elkdemo.service.ELKService - Fetching ALL food details... 
+25-01-21 10:13:19.547 [http-nio-8080-exec-7] INFO  c.a.e.e.controller.ELKController - Inside Food Detail Function 
+25-01-21 10:13:19.547 [http-nio-8080-exec-7] INFO  c.a.e.elkdemo.service.ELKService - Fetching ALL food details... 
+25-01-21 10:24:28.046 [restartedMain] INFO  c.a.e.elkdemo.ElkDemoApplication - Starting ElkDemoApplication using Java 22.0.2 with PID 19484 (D:\Current_Downloads_Folder\elkdemo\target\classes started by Amit Kumar in D:\Current_Downloads_Folder\elkdemo) 
+25-01-21 10:24:28.048 [restartedMain] INFO  c.a.e.elkdemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default" 
+25-01-21 10:24:28.089 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+25-01-21 10:24:28.089 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+25-01-21 10:24:28.767 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http) 
+25-01-21 10:24:28.777 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+25-01-21 10:24:28.778 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat] 
+25-01-21 10:24:28.778 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34] 
+25-01-21 10:24:28.817 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+25-01-21 10:24:28.817 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 728 ms 
+25-01-21 10:24:29.070 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+25-01-21 10:24:29.082 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+25-01-21 10:24:29.104 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/' 
+25-01-21 10:24:29.110 [restartedMain] INFO  c.a.e.elkdemo.ElkDemoApplication - Started ElkDemoApplication in 1.358 seconds (process running for 2.238) 
+25-01-21 10:24:44.534 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+25-01-21 10:24:44.534 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+25-01-21 10:24:44.535 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms 
+25-01-21 10:24:44.553 [http-nio-8080-exec-1] INFO  c.a.e.e.controller.ELKController - Inside Food Detail Function 
+25-01-21 10:24:44.553 [http-nio-8080-exec-1] INFO  c.a.e.elkdemo.service.ELKService - Fetching ALL food details... 
+25-01-21 10:24:45.162 [http-nio-8080-exec-2] INFO  c.a.e.e.controller.ELKController - Inside Food Detail Function 
+25-01-21 10:24:45.162 [http-nio-8080-exec-2] INFO  c.a.e.elkdemo.service.ELKService - Fetching ALL food details... 
+25-01-21 11:13:31.439 [http-nio-8080-exec-6] INFO  c.a.e.e.controller.ELKController - Inside Food Detail Function 
+25-01-21 11:13:31.452 [http-nio-8080-exec-6] INFO  c.a.e.elkdemo.service.ELKService - Fetching ALL food details... 
+25-01-21 11:17:46.643 [http-nio-8080-exec-4] INFO  c.a.e.e.controller.ELKController - Inside Food Detail Function 
+25-01-21 11:17:46.643 [http-nio-8080-exec-4] INFO  c.a.e.elkdemo.service.ELKService - Fetching ALL food details... 
+25-01-21 11:18:46.514 [http-nio-8080-exec-2] INFO  c.a.e.e.controller.ELKController - Inside Hello World Function 
+25-01-21 11:18:46.528 [http-nio-8080-exec-2] INFO  c.a.e.e.controller.ELKController - Response => Hello World! Tue Jan 21 11:18:46 IST 2025 
